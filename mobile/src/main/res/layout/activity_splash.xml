@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground"
+    tools:context="com.example.govardhan.wearpracticeconnection.Splash">
+
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="527dp"
+        android:src="@drawable/moodlogo"
+        tools:layout_editor_absoluteY="32dp"
+        tools:layout_editor_absoluteX="8dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Mood Monitoring"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        android:layout_alignBottom="@+id/image"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="61dp" />
+
+
+
+
+</RelativeLayout>

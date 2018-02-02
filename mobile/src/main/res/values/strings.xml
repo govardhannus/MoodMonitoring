@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Mood Monitoring</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_inventory">Inventory</string>
+    <string name="google_app_id">your app id</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_allergy">Allergy</string>
+    <string name="hint_medName">Pill Name</string>
+    <string name="hint_medRoutine">Routine</string>
+    <string name="hint_medDetails">Details</string>
+    <string name="add">Add</string>
+    <string name="save">Save</string>
+    <string name="reset">Reset</string>
+    <string name="btn_delete">Delete</string>
+
+    <string name="name">Pill Name</string>
+    <string name="add_pill_edit_field">12</string>
+    <string name="progress_dialog">Waiting for results</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="pill_details">Pill Details</string>
+    <string name="pill_exp_date">Expiry Date</string>
+    <string name="pill_qty">Quantity</string>
+    <string name="pill_qty_threshold">Quantity Threshold</string>
+    <string name="pill_exp_threshold">Expiry Threshold</string>
+    <string name="add_pill_edit_field_expdate">6</string>
+
+    <!--Prescription constants starts -->
+    <string name="hint_doctorName">Doctor Name</string>
+    <string name="hint_validity">Validity</string>
+    <string name="hint_date">Date</string>
+    <string name="dosage">Dosage</string>
+    <string name="other">Other</string>
+    <string name="quantity">Quantity</string>
+    <string name="btnConfirm">Add</string>
+    <string name="hint_clinic_name">Clinic Name</string>
+    <string name="prescription_date">Prescription Date</string>
+    <string name="prescription_expiry_date">Expiry Date</string>
+
+    <string name="routine">Routine</string>
+    <string name="routine_time">Routine(Timings)</string>
+    <string name="times">Times</string>
+    <string name="Pill">Pill</string>
+    <string name="PillName">Choose the Pill to Add</string>
+
+
+    <!--Prescription constants ends -->
+
+    <!--Monitoring Constants starts -->
+
+    <string name="edit_current_heart_rate">Current Heart Rate</string>
+    <string name="edit_highest_heart_rate">Highest Heart Rate</string>
+    <string name="edit_lowest_heart_rate">Lowest Heart Rate</string>
+    <string name="edit_last_updated_heart_rate">Last Updated Heart Rate</string>
+
+    <string name="edit_date_time"> Time Stamp</string>
+
+    <string name="enter_heart_rate">3</string>
+    <string name="enter_time_heart_rate">12</string>
+
+    <!--Monitoring Constants ends -->
+
+
+    <string-array name="inventory_arrays">
+        <item>Inventory</item>
+        <item>Expiry</item>
+        <item>Out of stock</item>
+    </string-array>
+
+    <string-array name="pills">
+        <item>Tab1</item>
+        <item>Dolo</item>
+        <item>Curram</item>
+
+    </string-array>
+    <string-array name="Routine">
+        <item>Day</item>
+        <item>Week</item>
+    </string-array>
+    <string-array name="Dosage">
+        <item>ml</item>
+        <item>Capsule</item>
+    </string-array>
+    <string-array name="Other">
+        <item>Before Lunch</item>
+        <item>After Lunch</item>
+    </string-array>
+    <string-array name="pill_unit">
+        <item>Capsule</item>
+        <item>ml</item>
+    </string-array>
+
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="text_start">Start</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="person_mood">
+        <item>Angry</item>
+        <item>Not Angry</item>
+    </string-array>
+</resources>
